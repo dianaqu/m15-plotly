@@ -38,6 +38,6 @@ p <- plot_geo(df, locationmode = 'USA-states') %>%
 
 ```
 this is the graph
-`r p`
+`r p` 
 
 > See https://plot.ly/r/reference/#layout-annotations for more information and chart attribute options!
